@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+.bar-brown {
+  background-color: #795548;
+  text-align: center;
+}
+
+.bar-brown h1 {
+  text-align: center !important;
+  color: #fff;
+}
